@@ -2,9 +2,11 @@ const App = () => {
   return (
     <main className="min-h-screen bg-gradient-to-b from-black via-zinc-900 to-black text-white">
       <section className="mx-auto max-w-6xl px-6 py-20 text-center">
-        <p className="mb-4 text-sm font-semibold uppercase tracking-[0.25em] text-amber-300">
-          Hidroreabilitar
-        </p>
+        <img
+          src="/hidroreabilitar-logo.svg"
+          alt="Logo HIDROREABILITAR - Dra. Camila Mendes"
+          className="mx-auto mb-8 w-full max-w-md rounded-lg bg-white/90 p-4 shadow-2xl shadow-black/40"
+        />
         <h1 className="mb-6 text-4xl font-bold leading-tight md:text-6xl">
           Movimento sem dor.
           <br />

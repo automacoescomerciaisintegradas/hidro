@@ -1,0 +1,47 @@
+<svg width="1200" height="460" viewBox="0 0 1200 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="180" y1="28" x2="425" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D7A931"/>
+      <stop offset="0.55" stop-color="#B8860B"/>
+      <stop offset="1" stop-color="#E4C76A"/>
+    </linearGradient>
+  </defs>
+
+  <path
+    d="M94 160C124 98 178 66 240 66C302 66 356 98 386 160"
+    stroke="url(#gold)"
+    stroke-width="17"
+    stroke-linecap="round"
+  />
+
+  <circle cx="285" cy="148" r="10.5" fill="url(#gold)"/>
+
+  <path
+    d="M112 214C160 190 214 186 265 202C302 214 338 213 377 196"
+    stroke="url(#gold)"
+    stroke-width="11"
+    stroke-linecap="round"
+  />
+  <path
+    d="M109 245C166 218 228 215 287 230C320 239 350 238 380 224"
+    stroke="url(#gold)"
+    stroke-width="9"
+    stroke-linecap="round"
+  />
+  <path
+    d="M111 272C174 244 244 243 310 258C336 264 361 264 381 255"
+    stroke="url(#gold)"
+    stroke-width="8"
+    stroke-linecap="round"
+  />
+
+  <text x="56" y="360" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="700" letter-spacing="1">
+    HIDRO
+  </text>
+  <text x="334" y="360" fill="#374151" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="300">
+    REABILITAR
+  </text>
+  <text x="104" y="415" fill="#374151" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="300">
+    Dra. Camila Mendes
+  </text>
+</svg>
