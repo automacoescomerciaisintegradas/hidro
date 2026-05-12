@@ -13,7 +13,7 @@
 ### 🔧 Tasks Técnicas
 
 #### 1.1 Configuração do Ambiente
-- [ ] **Conectar Supabase ao projeto Lovable**
+- [ ] **Conectar Supabase ao projeto**
   - Clicar no botão verde "Supabase" no topo direito
   - Configurar novo projeto ou conectar existente
   - Verificar conexão e permissões

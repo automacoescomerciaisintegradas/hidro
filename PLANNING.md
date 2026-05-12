@@ -57,7 +57,7 @@ Desenvolver um sistema completo de agendamento para a clínica HIDROREABILITAR, 
 ### Deployment
 - **Vercel/Netlify** para frontend
 - **Supabase Cloud** para backend
-- **Custom Domain** via Lovable
+- **Custom Domain** via Vercel/Netlify
 
 ## 🏗️ Arquitetura do Sistema
 
@@ -231,7 +231,7 @@ email_notifications: boolean
 
 ### Ambiente de Produção
 - Supabase Cloud (produção)
-- Lovable hosting ou Vercel
+- Vercel ou Netlify
 - Custom domain configurado
 - SSL/HTTPS obrigatório
 
